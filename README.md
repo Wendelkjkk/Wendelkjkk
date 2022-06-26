@@ -2,8 +2,9 @@
 - 🤯 Tentando estudar JavaScript 😔😔
 
 <div align="center">
-
+<img src="https://wallpaperaccess.com/full/1313262.gif" width="700px" />
 </div>
+
 
 <div align="center">
   <a href="https://github.com/wendelkjkk">
